@@ -30,7 +30,8 @@ The dashboard consists of 5+ core visual components that break down business per
 4. **Customer Analytics Dashboard:** Includes detailed analysis of payment methods against revenue and tracking repeat purchase frequencies.
 5. **High-Level KPI Cards:** Instant overview of New MRR, ARPPU, Total MRR, and Total Paid Users.
 
-![Uploading Dashboard 1.png…]()
+<img width="1836" height="1566" alt="Dashboard 1" src="https://github.com/user-attachments/assets/99ec4364-ba0f-4a49-9c06-928d31675123" />
+
 
 
 ---
